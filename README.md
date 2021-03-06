@@ -1,3 +1,11 @@
+# Whatsapp-clone-MERN
+Tried this awesome tutorial
+
+
+[🔴 Build a Whatsapp Clone with MERN Stack (MongoDB, Express, React, Node JS)
+    ](https://www.youtube.com/watch?v=gzdQDxzW2Tw)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
